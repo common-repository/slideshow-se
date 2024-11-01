@@ -1,0 +1,14 @@
+{
+	"name": "f1rehead/slideshow",
+	"title": "Slideshow SE",
+	"category": "common",
+	"icon": "format-gallery",
+	"description": "A slideshow block",
+	"textdomain": "f1rehead",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./block/index.js",
+	"editorStyle": "file:./block/index.css",
+	"style": "file:./block/style-index.css"
+}
